@@ -35,7 +35,6 @@ _global_script_class_icons={
 config/name="G4fps"
 run/main_scene="res://levels/node_3d.tscn"
 config/features=PackedStringArray("4.0", "Forward Plus")
-config/icon="res://icon.svg"
 
 [autoload]
 
